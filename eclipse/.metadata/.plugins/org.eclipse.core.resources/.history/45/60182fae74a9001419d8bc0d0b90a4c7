@@ -1,8 +1,8 @@
 [
 {
-  "modid": "HayesMod",
-  "name": "Hayes Mod",
-  "description": "Hayes Family Mod",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
